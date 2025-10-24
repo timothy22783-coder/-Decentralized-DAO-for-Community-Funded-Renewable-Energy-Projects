@@ -46,4 +46,4 @@ Boom! You're now part of funding the green revolution, with yields compounding a
 
 - Stake GREEN-DAO in YieldFarming to farm rewards.  
 - Monitor DAO performance – successful projects increase the reward pool, creating a positive feedback loop.  
-- Claim rewards from RewardDistributor at any time, with vesting options for long-term holders.  
+- Claim rewards from RewardDistributor at any time, with vesting options for long-term holders.
